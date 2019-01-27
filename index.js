@@ -10,6 +10,6 @@ function iterativeLog(array) {
   return array
 }
 
-//  function doToArray(array, callback) {
-//   array.forEach(callback)
-// }
+ function doToArray(array, callback) {
+  array.forEach(callback)
+}
